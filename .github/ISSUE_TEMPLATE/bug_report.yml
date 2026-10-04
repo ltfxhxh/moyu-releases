@@ -1,0 +1,32 @@
+name: 问题反馈
+description: 报告墨屿 Beta 使用中遇到的问题
+title: "[问题] "
+body:
+  - type: markdown
+    attributes:
+      value: "请勿上传凭据、API Key 或私人正文；截图前请遮挡私人信息。"
+  - type: input
+    id: version
+    attributes:
+      label: 墨屿版本
+      placeholder: 0.9.0-beta.1
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows 版本
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: 预期结果与实际结果
+    validations:
+      required: true
