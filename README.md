@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="./assets/moyu-beta1-poster.png" width="100%" alt="MOYU · 墨屿 Beta 1">
+<img src="./assets/07-entering-shatter.gif" width="100%" alt="SHATTER 破境 · 从书页进入故事的动态预览">
 
 <br><br>
 
@@ -15,6 +15,39 @@
 写作 · 故事结构 · 人物世界 · 视觉创作 · 沉浸体验
 
 </div>
+
+<br>
+
+---
+
+<br>
+
+## 从书页，进入一个世界。
+
+作品不只是一份文档。正文、人物、故事结构与视觉世界，在同一处创作空间里相遇。
+
+<p align="center">
+  <a href="./assets/moyu-beta1-overview.png"><img src="./assets/moyu-beta1-overview.png" width="100%" alt="墨屿产品总览 · 书库、Writer、人物、故事结构、视觉工作室与入境"></a>
+</p>
+
+<br>
+
+## 人物，拥有自己的样子。
+
+《炽魅》的高妍与罗夏。人物设定与视觉形象，共同留存在作品中。
+
+<table>
+  <tr>
+    <td width="50%" align="center"><a href="./assets/gaoyan-character.png"><img src="./assets/gaoyan-character.png" width="100%" alt="高妍 · 人物视觉设定"></a></td>
+    <td width="50%" align="center"><a href="./assets/luoxia-character.png"><img src="./assets/luoxia-character.png" width="100%" alt="罗夏 · 人物视觉设定"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>高妍 · GAO YAN</sub></td>
+    <td align="center"><sub>罗夏 · LUO XIA</sub></td>
+  </tr>
+</table>
+
+<p align="center"><sub>点击图片，查看完整视觉设定。</sub></p>
 
 <br>
 
